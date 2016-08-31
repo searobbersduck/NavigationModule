@@ -1,0 +1,7 @@
+poisearch = [want] poi [want1]; # second optional
+
+want = "我要去" / "导航到" / "带我去" / "帮我找一下" / "我要找";
+
+want1 = "在哪里";
+
+poi = "北京" / "上海" / "天安门" / "东方明珠";

@@ -1,0 +1,13 @@
+foodsearch = whowantaction [location] food; # second optional
+
+whowantaction = [who] [want] action;
+
+who = ["帮"]"我";
+
+want = "想" / "想去" / "要" / "要去";
+
+action = "吃" / "找" / "找一下";
+
+location = "附近的";
+
+food = "肯德基" / "麦丹劳" / "望湘园" / "兰州拉面";

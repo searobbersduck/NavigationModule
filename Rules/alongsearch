@@ -1,0 +1,5 @@
+alongsearch = [want] poi; # second optional
+
+want = "沿途" / "查一下沿途的" / "查查沿途的" / "搜索沿途的";
+
+poi = "肯德基" / "麦丹劳" / "望湘园" / "兰州拉面";
